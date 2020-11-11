@@ -43,3 +43,16 @@ color: chartreuse;
     width: 20rem;
     height: 20rem;
 }
+
+.caja {
+    color: cyan;
+    background-color: darkgoldenrod;
+    height: 20px;
+    width: 100%;
+}
+.divverde {
+    background-color: darkgreen;
+    height: 20px;
+    margin-left: 50%;
+
+}
