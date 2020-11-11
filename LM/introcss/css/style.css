@@ -1,3 +1,39 @@
 h1 {
-    color: tomato;
+    color: aliceblue;
+    background-color: yellowgreen;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #fdcb6e;
+    
+}
+
+
+.rojo {
+    color: #FF0066;
+    
+}
+.menu {
+    margin: 0;
+    padding: 0;
+    background-color: #a29bfe;
+}
+.menuItem {
+    display: inline;
+    margin-left: 1rem;
+}
+
+.hola {
+    background-color: rgb(250, 252, 78);
+    background-image: linear-gradient(tomato, rgb(250, 252, 78));
+}
+.pepino {
+    
+    color: aliceblue;
+    display: block;
+    background-image: url(https://images.unsplash.com/photo-1604673809095-242bf2b47106?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+    width: 20rem;
+    height: 20rem;
 }
