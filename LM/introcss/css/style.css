@@ -10,6 +10,11 @@ a {
     
 }
 
+a:hover , li:hover{
+background-color: #FF0066;
+color: chartreuse;
+}
+
 
 .rojo {
     color: #FF0066;
@@ -18,11 +23,12 @@ a {
 .menu {
     margin: 0;
     padding: 0;
-    background-color: #a29bfe;
+    background-color: #A29bfe;
+    
 }
 .menuItem {
     display: inline;
-    margin-left: 1rem;
+    padding: 0.25rem;
 }
 
 .hola {
