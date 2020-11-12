@@ -43,6 +43,10 @@ color: chartreuse;
     width: 20rem;
     height: 20rem;
 }
+body{
+    margin: 0%;
+    
+}
 
 .caja {
     color: cyan;
@@ -50,9 +54,36 @@ color: chartreuse;
     height: 20px;
     width: 100%;
 }
-.divverde {
+
+
+.caja2 {
     background-color: darkgreen;
     height: 20px;
     margin-left: 50%;
+}
+.caja3 {
+    display: inline-block;
+background-color: firebrick;
+height: 20px;
+width: 50%;
+min-width: 900px;
+}
+.caja4 {
+    display: inline-block;
+    background-color: dodgerblue;
+    height: 20px;
+    width: 50%;
+}
 
+.caja5 {
+    display: inline-block;
+    background-color: indigo;
+    height: 20px;
+    width: 48%;
+}
+.caja6 {
+    display: inline-block;
+    background-color: rgb(61, 212, 23);
+    height: 20px;
+    width: 48%;
 }
