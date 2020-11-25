@@ -87,3 +87,15 @@ min-width: 900px;
     height: 20px;
     width: 48%;
 }
+
+.fondo {
+    background-color: hsl(240,50%,70%) ;
+    height: 100%;
+    width: 100%;
+}
+
+.letras {
+    color: hsl(39, 100%, 50%);
+    font-size: 5rem;
+    
+}

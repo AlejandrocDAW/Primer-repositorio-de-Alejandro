@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(80, 80, 146);
+}
+
+.titulo {
+    color: hsl(40, 100%,50%);
+    font-size: 6rem;
+}
+.rojo{
+    background-color: hsl(0, 60%,50%);
+    width: 15rem;
+    height: 4rem;
+}
+.amarillo {
+    background-color: hsl(60, 50%, 70%);
+    width: 15rem;
+    height: 4rem;
+}
+.españa {
+    display: inline;
+}
+.verde{
+    background-color: hsl(120, 70%, 20%);
+    width: 13rem;
+    height: 4rem;
+}
+.blanco {
+    background-color: hsl(222, 50%, 100%);
+    width: 13rem;
+    height: 4rem;
+}
+.negro {
+    background-color: hsl(222, 33%, 0%);
+    width: 13rem;
+    height: 4rem;
+}
+.rojo2 {
+    display: inline;
+    background-color: hsl(0, 60%,40%);
+    width: 20%;
+    height: 20%;
+}
+
+.esp {
+    display: inline-block;
+    width: 45%;
+height: 45%;
+}
+.eau {
+display: inline-block;
+width: 20%;
+height: 20%;
+}
+.foto {
+    display: inline;
+    
+}
